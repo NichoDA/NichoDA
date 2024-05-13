@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a senior studying Software Engineering at LSU 🐯. Currently, I'm working on a web game app. In the upcoming semester, I'll be diving into various school projects, including one using Unity for game development.
+I'm a senior studying Software Engineering at LSU 🐯. Currently, I'm working on a game for LSU's game jam! In the upcoming semester, I'll be diving into various school projects, studying AI, and studying cloud computing.
 
 🌱 Open for work opportunities.
 
